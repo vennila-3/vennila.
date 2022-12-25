@@ -1,2 +1,1 @@
-Fully working PHP/AJAX contact form script is available in the pro version of the template.
-You can buy it from: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
+The .scss (Sass) files are only avilable in the pro version. You can buy it from: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
